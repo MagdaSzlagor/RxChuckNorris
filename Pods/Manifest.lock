@@ -1,0 +1,61 @@
+PODS:
+  - Alamofire (4.7.2)
+  - AlamofireObjectMapper (5.0.0):
+    - Alamofire (~> 4.1)
+    - ObjectMapper (~> 3.0)
+  - Nimble (7.1.1)
+  - ObjectMapper (3.1.0)
+  - QueryKit (0.13.0)
+  - RxAlamofire (3.0.3):
+    - RxAlamofire/Core (= 3.0.3)
+  - RxAlamofire/Core (3.0.3):
+    - Alamofire (~> 4.0)
+    - RxSwift (~> 3.0)
+  - RxBlocking (3.6.1):
+    - RxSwift (~> 3.6)
+  - RxCocoa (3.6.1):
+    - RxSwift (~> 3.6)
+  - RxSwift (3.6.1)
+  - RxTest (3.6.1):
+    - RxSwift (~> 3.6)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireObjectMapper
+  - Nimble
+  - ObjectMapper
+  - QueryKit
+  - RxAlamofire
+  - RxBlocking (~> 3.0)
+  - RxCocoa (~> 3.0)
+  - RxSwift (~> 3.0)
+  - RxTest (~> 3.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - AlamofireObjectMapper
+    - Nimble
+    - ObjectMapper
+    - QueryKit
+    - RxAlamofire
+    - RxBlocking
+    - RxCocoa
+    - RxSwift
+    - RxTest
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  AlamofireObjectMapper: 5fafc816351cbbc0d486611aaeba7461c0cbad49
+  Nimble: 391f07782af4b37914f9bd7b2ffbb952731b8202
+  ObjectMapper: 20505058f54e5c3ca69e1d6de9897d152a5369a6
+  QueryKit: 406c42b9b4eb5f8dab380a9e5bd9ef656542d1f4
+  RxAlamofire: 5eb39188c4917ad98127c0ecb4878a61b7517003
+  RxBlocking: 4f4bd5732e8b952e54ae8a57739bcfb645de12bc
+  RxCocoa: 84a08739ab186248c7f31ce4ee92d6f8a947d690
+  RxSwift: f9de85ea20cd2f7716ee5409fc13523dc638e4e4
+  RxTest: 1d00348a7848c91ab5bf5d197d2378aa6b2bb356
+
+PODFILE CHECKSUM: 90fd7e8eda4fbe41b655ce8bcb54607e70493386
+
+COCOAPODS: 1.5.0
